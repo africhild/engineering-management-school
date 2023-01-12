@@ -1,1 +1,1 @@
-# engineering-management-school
+# School of Engineering Management
